@@ -108,7 +108,7 @@ CREATE TABLE `ouvrage` (
 
 
 ## Diagramme ER
-![image alt]
+![image alt](https://github.com/laouysalma/Tp2MySQL/blob/main/Diagramme.jpg?raw=true)
 
 ## Rapport
 
